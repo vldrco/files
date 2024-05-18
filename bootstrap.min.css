@@ -5511,7 +5511,7 @@ footer .attribution{
     font-size:.8rem!important
 }
 .home-page .banner{
-    background:#000000;
+    background: transparent;
 }
 .home-page .banner p{
     color:#fff;
